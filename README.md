@@ -1,0 +1,1 @@
+This algorithm tries to improve the running speed and provide a UI interface over the existing conditional function dependency mining algorithms. Testdata original link to https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estatedataset?resource=download.
